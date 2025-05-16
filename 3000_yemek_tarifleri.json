@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Salatalık Çorbası",
+    "cuisine": "Türk",
+    "time": "40dk",
+    "ingredients": "2 tane salatalık, 1 çay bardağı iç ceviz, 1kg yoğurt, 2 yemek kaşığı kıyılmış nane, 4 diş sarımsak, 1 tatlı kaşığı tuz, 3 yemek kaşığı zeytinyağı",
+    "instructions": "Salatalıkları soy, cevizleri döv, sarımsakları ez, yoğurdu çırp, tüm malzemeleri karıştır..."
+  },
+  {
+    "name": "Tarator",
+    "cuisine": "Türk",
+    "time": "20dk",
+    "ingredients": "2 tane salatalık, 1 çay bardağı iç ceviz, 1kg yoğurt, 2 yemek kaşığı kıyılmış nane, 4 diş sarımsak, 1 tatlı kaşığı tuz, 3 yemek kaşığı zeytinyağı",
+    "instructions": "Salatalıkları soy, cevizleri döv, sarımsakları ez, yoğurdu çırp, tüm malzemeleri karıştır..."
+  },
+  {
+    "name": "Kısır",
+    "cuisine": "Türk",
+    "time": "30dk",
+    "ingredients": "1 su bardağı ince bulgur, 2 domates, 1 salatalık, maydanoz, nar ekşisi, zeytinyağı, tuz",
+    "instructions": "Bulguru sıcak su ile ıslat, sebzeleri doğra, tüm malzemeleri karıştır..."
+  },
+  {
+    "name": "Çılbır",
+    "cuisine": "Türk",
+    "time": "15dk",
+    "ingredients": "2 yumurta, yoğurt, sarımsak, tuz, pul biber",
+    "instructions": "Yumurtaları haşla, yoğurdu çırp, sarımsağı ez, tüm malzemeleri birleştir..."
+  },
+
+  {
+    "name": "Domates Çorbası",
+    "cuisine": "Türk",
+    "time": "30dk",
+    "ingredients": "5 domates, un, süt",
+    "instructions": "Unu kavur, sütü ekle, domatesleri blenderdan geçir, karıştır ve pişir..."
+  },
+  {
+    "name": "Mercimek Çorbası",
+    "cuisine": "Türk",
+    "time": "25dk",
+    "ingredients": "1 bardak kırmızı mercimek, 1 soğan, 2 yemek kaşığı yağ",
+    "instructions": "Mercimekleri haşla, yağı erit, soğanı kavur, mercimekleri ekle, su ekle ve pişir..."
+  },
+  {
+    "name": "Zeytinyağlı Enginar",
+    "cuisine": "Türk",
+    "time": "45dk",
+    "ingredients": "4 enginar, 1 limon, 1 çay bardağı zeytinyağı, tuz, şeker",
+    "instructions": "Enginarları temizle, limonu sık, zeytinyağını ekle, tuz ve şekeri ekle ve pişir..."
+  },
+  {
+    "name": "Fırında Patates",
+    "cuisine": "Türk",
+    "time": "50dk",
+    "ingredients": "4 patates, 2 yemek kaşığı zeytinyağı, tuz, baharatlar",
+    "instructions": "Patatesleri doğra, zeytinyağını ekle, baharatları ekle ve fırında pişir..."
+  },
+  {
+    "name": "Kumpir",
+    "cuisine": "Türk",
+    "time": "1saat",
+    "ingredients": "4 patates, 1 su bardağı kaşar peyniri, zeytin, mısır, turşu",
+    "instructions": "Patatesleri haşla, içini çıkar, kaşarı ekle, sebzeleri ekle ve karıştır..."
+  },
+  {
+    "name": "Bulgur Pilavı",
+    "cuisine": "Türk",
+    "time": "30dk",
+    "ingredients": "2 su bardağı bulgur, 1 soğan, 2 domates, tuz, baharatlar",
+    "instructions": "Soğanı kavur, domatesi ekle, bulguru ekle ve pişir..."
+  },
+  {
+    "name": "Pirinç Pilavı",
+    "cuisine": "Türk",
+    "time": "30dk",
+    "ingredients": "2 su bardağı pirinç, 1 soğan, tuz, tereyağı",
+    "instructions": "Soğanı kavur, pirinci ekle, su ekle ve pişir..."
+  },
+  {
+    "name": "Kumpir",
+    "cuisine": "Türk",
+    "time": "1saat",
+    "ingredients": "4 patates, 1 su bardağı kaşar peyniri, zeytin, mısır, turşu",
+    "instructions": "Patatesleri haşla, içini çıkar, kaşarı ekle, sebzeleri ekle ve karıştır..."
+  },
+  {
+    "name": "Fırında Tavuk",
+    "cuisine": "Türk",
+    "time": "1saat",
+    "ingredients": "1 tavuk, 2 patates, 2 havuç, zeytinyağı, baharatlar",
+    "instructions": "Tavuğu marine et, sebzeleri doğra, hepsini fırında pişir..."
+  },
+  {
+    "name": "Köfte",
+    "cuisine": "Türk",
+    "time": "40dk",
+    "ingredients": "500g kıyma, 1 soğan, 1 yumurta, ekmek içi, baharatlar",
+    "instructions": "Kıymayı yoğur, köfte şekli ver, tavada pişir..."
+  },
+  {
+    "name": "Börek",
+    "cuisine": "Türk",
+    "time": "1saat",
+    "ingredients": "Yufka, kıyma, soğan, baharatlar",
+    "instructions": "Yufkayı aç, iç harcı koy, sar ve fırında pişir..."
+  },
+  {
+    "name": "Pizza",
+    "cuisine": "İtalyan",
+    "time": "1saat",
+    "ingredients": "Pizza hamuru, domates sosu, mozzarella peyniri, sucuk, mantar",
+    "instructions": "Hamuru aç, sosu sür, malzemeleri ekle ve fırında pişir..."
+  },
+  {
+    "name": "Spaghetti",
+    "cuisine": "İtalyan",
+    "time": "30dk",
+    "ingredients": "Spaghetti makarna, domates sosu, parmesan peyniri, fesleğen",
+    "instructions": "Makarna haşla, sosu pişir, hepsini karıştır ve servis et..."
+  },
+  {
+    "name": "Lasagna",
+    "cuisine": "İtalyan",
+    "time": "1.5saat",
+    "ingredients": "Lasagna yaprakları, kıyma, domates sosu, beşamel sosu, mozzarella peyniri",
+    "instructions": "Kat kat yerleştir, fırında pişir ve servis et..."
+  },
+  {
+    "name": "Tiramisu",
+    "cuisine": "İtalyan",
+    "time": "4saat",
+    "ingredients": "Mascarpone peyniri, kahve, kedi dili bisküvi, kakao",
+    "instructions": "Kahveyi hazırlayıp bisküvileri ıslat, kat kat yerleştir ve buzdolabında beklet..."
+  },
+  {
+    "name": "Pasta",
+    "cuisine": "İtalyan",
+    "time": "1saat",
+    "ingredients": "Un, yumurta, tuz, su",
+    "instructions": "Hamuru yoğur, aç ve kes, haşla ve sos ile karıştır..."
+  },
+  {
+    "name": "Sushi",
+    "cuisine": "Japon",
+    "time": "1saat",
+    "ingredients": "Sushi pirinci, nori yaprağı, sebzeler, balık",
+    "instructions": "Pirinci haşla, noriye sar, sebzeleri ve balığı ekle ve dilimle..."
+  },
+  {
+    "name": "Ramen",
+    "cuisine": "Japon",
+    "time": "1saat",
+    "ingredients": "Ramen eriştesi, sebzeler, et suyu, soya sosu",
+    "instructions": "Erişteleri haşla, sebzeleri pişir, et suyunu ekle ve karıştır..."
+  },
+  {
+    "name": "Tempura",
+    "cuisine": "Japon",
+    "time": "30dk",
+    "ingredients": "Sebzeler, un, su, yağ",
+    "instructions": "Sebzeleri doğra, hamuru hazırla, kızart ve servis et..."
+  },
+  {
+    "name": "Okonomiyaki",
+    "cuisine": "Japon",
+    "time": "1saat",
+    "ingredients": "Un, su, lahana, yumurta, sos",
+    "instructions": "Malzemeleri karıştır, tavada pişir ve sos ile servis et..."
+  },
+  {
+    "name": "Miso Çorbası",
+    "cuisine": "Japon",
+    "time": "20dk",
+    "ingredients": "Miso, su, tofu, deniz yosunu",
+    "instructions": "Su kaynat, misoyu ekle, tofu ve yosunu ekle ve pişir..."
+  },
+  {
+    "name": "Paella",
+    "cuisine": "İspanyol",
+    "time": "1.5saat",
+    "ingredients": "Pirinç, deniz ürünleri, sebzeler, safran",
+    "instructions": "Pirinç ve sebzeleri pişir, deniz ürünlerini ekle ve karıştır..."
+  },
+  {
+    "name": "Gazpacho",
+    "cuisine": "İspanyol",
+    "time": "20dk",
+    "ingredients": "Domates, salatalık, biber, sarımsak, zeytinyağı",
+    "instructions": "Sebzeleri doğra, karıştır ve soğuk servis et..."
+  },
+  {
+    "name": "Tortilla Española",
+    "cuisine": "İspanyol",
+    "time": "40dk",
+    "ingredients": "Patates, yumurta, soğan, tuz",
+    "instructions": "Patatesleri kızart, yumurtayı çırp ve tavada pişir..."
+  },
+  {
+    "name": "Churros",
+    "cuisine": "İspanyol",
+    "time": "30dk",
+    "ingredients": "Un, su, şeker, yağ",
+    "instructions": "Hamuru hazırla, kızart ve şekerle kapla..."
+  },
+  {
+    "name": "Crema Catalana",
+    "cuisine": "İspanyol",
+    "time": "1saat",
+    "ingredients": "Süt, şeker, yumurta sarısı, nişasta, tarçın",
+    "instructions": "Malzemeleri karıştır, pişir ve soğut..."
+  },
+  {
+    "name": "Baklava",
+    "cuisine": "Türk",
+    "time": "2saat",
+    "ingredients": "Yufka, ceviz, tereyağı, şeker, su",
+    "instructions": "Yufkaları aç, ceviz koy, tereyağını sür ve fırında pişir..."
+  },
+  {
+    "name": "Künefe",
+    "cuisine": "Türk",
+    "time": "1saat",
+    "ingredients": "Kadayıf, peynir, şeker, su, tereyağı",
+    "instructions": "Kadayıfı hazırlayıp peynirle doldur, tereyağında kızart ve şerbetle buluştur..."
+  },
+  {
+    "name": "Simit",
+    "cuisine": "Türk",
+    "time": "1saat",
+    "ingredients": "Un, su, maya, pekmez, susam",
+    "instructions": "Hamuru yoğur, şekil ver, pekmeze bulayıp susama batır ve fırında pişir..."
+  },
+  {
+    "name": "Pide",
+    "cuisine": "Türk",
+    "time": "1.5saat",
+    "ingredients": "Un, su, maya, kıyma, soğan, baharatlar",
+    "instructions": "Hamuru yoğur, iç harcı hazırlayıp pide şeklinde kapat ve fırında pişir..."
+  }
+]
