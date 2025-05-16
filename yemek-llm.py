@@ -4,7 +4,7 @@ import faiss
 import numpy as np
 
 # JSON dosyasını oku
-with open("C:/Users/LENOVA/Bilgisayar M. 3/Bilgisayar M. 3-2/Python Programlamaya Giriş/Proje/3000_yemek_tarifleri.json", "r", encoding="utf-8") as f:
+with open("recipe.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Embedding modeli
