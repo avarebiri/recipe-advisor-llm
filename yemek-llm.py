@@ -20,7 +20,6 @@ def clean_ingredient(raw):
     tokens = raw.strip().lower().split()
     return tokens[-1] if tokens else ""
 
-# --- VERI HAZIRLAMA ---
 @st.cache_data
 def prepare_dataset():
     rows = []
@@ -53,7 +52,6 @@ if st.button("Öneri Al") and query:
     input_text = query.lower()
     predicted = model.predict([input_text])[0]
 
-    # Eşleşen tarifin detayını bul
     match = next((item for item in data if item.get("title") == predicted), None)
     if match:
         st.subheader(match.get("title", "[isimsiz tarif]"))
