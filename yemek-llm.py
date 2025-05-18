@@ -2,12 +2,11 @@ import streamlit as st
 import json
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+#from sklearn.linear_model import LogisticRegression // if you want to change the model with LR    
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 import joblib
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
+
 
 @st.cache_data
 def load_data():
