@@ -10,14 +10,6 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-Ensure you have Python installed. You can install required packages using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Run the Application
 
 To launch the Streamlit app, run:
