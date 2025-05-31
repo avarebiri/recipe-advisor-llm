@@ -728,7 +728,10 @@
     "id": 53,
     "cuisine": "bilinmiyor",
     "duration": "25",
-    "ingredients": ["1 adet somon balığı", "1/5 paket tereyag"],
+    "ingredients": [
+      "1 adet somon balığı",
+      "1/5 paket tereyag"
+    ],
     "instructions": "Somon balığıni önce uzunlamasina ikiye daha sonra da dörde bölün. Genis bir tavada tereyag eritin. Somonlar çok kisik ateste agir agir pisirilir. Piserken tavanin üzerine kapak konulmasi gereklidir ki buhariyla güzel koksun. Sicak servis yapilir"
   },
   {
@@ -1189,7 +1192,9 @@
     "id": 79,
     "cuisine": "Türk",
     "duration": "20 dk",
-    "ingredients": ["1 adet somon balığı"],
+    "ingredients": [
+      "1 adet somon balığı"
+    ],
     "instructions": "Somon balığıni önce uzunlamasina ikiye daha sonra da dörde bölün. Genis bir tavada tereyag eritin. Somonlar çok kisik ateste agir agir pisirilir. Piserken tavanin üzerine kapak konulmasi gereklidir ki buhariyla güzel koksun. Sicak servis yapilir"
   },
   {
@@ -2749,7 +2754,11 @@
     "id": 183,
     "cuisine": "Türk",
     "duration": "40 dk",
-    "ingredients": ["1 adet piliç", "2 kasik yag", "1 adet limon"],
+    "ingredients": [
+      "1 adet piliç",
+      "2 kasik yag",
+      "1 adet limon"
+    ],
     "instructions": "Pilici temizleyip yikayiniz. Düzgün sekil veriniz. Üzerini limon ve tuzla güzelce ovunuz. Yaglanmis bir firin tepsisine pilici koyup birkaç yerine yag ve 1 fincan kadar da su tuz koyup tepsiyi firinin orta gözüne koyunuz. ara sira çevirerek ve kaptaki yagli sudan kasik kasik pilicin üzerine dökerek piliç yumusayip kizarincaya kadar firinda tutunuz. Pisince firindan alip çesitli garnitürlerle servis yapiniz"
   },
   {
@@ -3436,7 +3445,10 @@
     "id": 226,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["1 kg ıspanak", "2 yemek kasigi tereyağı"],
+    "ingredients": [
+      "1 kg ıspanak",
+      "2 yemek kasigi tereyağı"
+    ],
     "instructions": "ıspanaklarin köklerini kesip ayirin. Yapraklari yikadiktan sonra gerekiyorsa iki veya üçe bölün. ıspanaklari bir tencereye koyun ve üzerine 1 tatli kasigi tuz serpin. Kapagi örtülü olarak kisik ateste 10 dk pisirin. bir tavada yagi eritin süzülmüs ıspanaklari içine koyun ve 5 dk sote yapip"
   },
   {
@@ -5542,7 +5554,9 @@
     "id": 366,
     "cuisine": "Süre: 3saat",
     "duration": "3saat",
-    "ingredients": ["1 Paket Chocolate Mousse"],
+    "ingredients": [
+      "1 Paket Chocolate Mousse"
+    ],
     "instructions": "bir paket Chocolate Mousse'u genis ve derin bir kabin içine bosaltin. Üzerine bir su bardagi sütü ilave ederek eriyene kadar karistirin.  Elde ettiginiz karisimi mikserle 6 dakika çirpin.  Hazirladiginiz musu kaselere bosaltin ve buzdolabinda en az üç saat beklettikten sonra servis yapin."
   },
   {
@@ -8455,7 +8469,10 @@
     "id": 526,
     "cuisine": "Süre: 30dk",
     "duration": "30dk",
-    "ingredients": ["5 adet sosis", "5 yaprak milföy"],
+    "ingredients": [
+      "5 adet sosis",
+      "5 yaprak milföy"
+    ],
     "instructions": "buzluktan çikarttiginiz milföyleri oda sicakliginda 10-15 dakika bekletin. Parmak kalinliginda serit seklinde kesin.  Sosisleri ikiye bölün. Milföy seritlerini sosislere spiral seklinde sarin. Hamura sarilmis sosisleri yaglanmis tepsiye 2 cm araliklarla dizin. Üzerlerine yumurta sarisi sürün.  Spiral sosisleri önceden 150 derece isitilmis firinda üzerleri kizarana kadar pisirin."
   },
   {
@@ -8607,7 +8624,9 @@
     "id": 536,
     "cuisine": "Süre:",
     "duration": "MaLZEMELER",
-    "ingredients": ["12 çorba kasigi bal"],
+    "ingredients": [
+      "12 çorba kasigi bal"
+    ],
     "instructions": "Limonlarin kabuklarini rendeleyin. Suyunu sikip süzün.  Limon suyu ve bali bir tencerede karistirip kaynatin. Kaynamaya basladiktan sonra 5 dakika daha pisirin.  balli limonlu sos soguduktan sonra buzdolabina koyun. Dondurmanin üzerine dökerek servis yapin."
   },
   {
@@ -9304,7 +9323,10 @@
     "id": 580,
     "cuisine": "Türk",
     "duration": "90dk",
-    "ingredients": ["1 kg süt", "7 yumurta"],
+    "ingredients": [
+      "1 kg süt",
+      "7 yumurta"
+    ],
     "instructions": "Yumurtalarin hepsini bütün olarak şekerle köpük köpük olana kadar çirpin. Süt ilave edip çirpmaya bir müddet daha devam ederek pisirmek için tercihen cam bir kaba koyup orta hararetli firina atin.  1 saat kadar (tatlinin üzerinde kahverengi gözenekler meydana gelene kadar) pisirdikten sonra sogutup servis yapin."
   },
   {
@@ -9613,7 +9635,11 @@
     "id": 598,
     "cuisine": "Fransiz",
     "duration": "10",
-    "ingredients": ["500 gr havuç", "1 portakalin suyu", "1 limonun suyu"],
+    "ingredients": [
+      "500 gr havuç",
+      "1 portakalin suyu",
+      "1 limonun suyu"
+    ],
     "instructions": "Havuçlari rendeleyin. Rendelenmis havuçlari büyük bir kaseye koyun.  Limon ve portakal suyunu havuçlarin üzerine dökün ve iyice karistirin.  Havuçlari büyük bir salata kabina veya ayri ayri servis tabaklarina koyup üzerlerine hindistan cevizi serpistirin.  Hindistan cevizli havuç salatasini servis yapmadan önce en az l saat buzdolabinda bekletin.  SERVIS ÖNERiLERi:"
   },
   {
@@ -9621,7 +9647,9 @@
     "id": 599,
     "cuisine": "Türk",
     "duration": "20dk",
-    "ingredients": ["1 adet kırmızı lahana"],
+    "ingredients": [
+      "1 adet kırmızı lahana"
+    ],
     "instructions": "kırmızı lahanayi gayet ince bir sekilde dograyin. (Rendelemeyin) Salataya konan normal miktarda tuz serpin. Tuzlanmis lahanalari bir kavanoza doldurun. Yaklasik yariya kadar sirke doldurun.  bu sekilde tadinda bir degisiklik ve bozulma olmaksizin arada bir silkeleyerek buzdolabinda birkaç ay saklayabilirsiniz. Salata yapmak istediginizde sizma zeytinyağı ve arzu ettiginiz salata malzemesiyle zenginlestirerek servise sunun.   afiyet olsun...      - 600   - 601"
   },
   {
@@ -12216,7 +12244,12 @@
     "id": 765,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["6 Yumurta", "sarımsak", "yoğurt", "tereyağı"],
+    "ingredients": [
+      "6 Yumurta",
+      "sarımsak",
+      "yoğurt",
+      "tereyağı"
+    ],
     "instructions": "Genis bir tencereye üç parmak yüksekliginde su doldurup kaynatin. 6 yumurtayi birer birer kepçenin içine kirin. Dagilmamalarina dikkat ederek kaynayan suya aktarin.  2-3 dakika sonra pisen yumurtalari kevgirle sudan alip servis tabagina yerlestirin. Üzerine sanmsakli yoğurt ve tereyağında kizdirilmis"
   },
   {
@@ -12359,7 +12392,10 @@
     "id": 775,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["50 gr sucuk", "2 yumurta"],
+    "ingredients": [
+      "50 gr sucuk",
+      "2 yumurta"
+    ],
     "instructions": "Sucugun zarini soyup kalinca dograyin. bir sahana 4-5 çorba kasigi su ve sucuklari koyun. agir ateste yaklasik bir dakika kaynatin.  Sonra sucuk dilimlerini altüst edin. bir dakika daha suda pisirin. Gerekirse bu arada sahana biraz sicak su koyun.  Sahana margarini katin. Yag erimeye baslayinca yumurtalari sahanin içine kirin. Yine agir ateste yagi yakmadan yumurtalarin aki sertlesinceye kadar pisirin. Sahani atesten alip hemen servis yapin."
   },
   {
@@ -15440,7 +15476,11 @@
     "id": 964,
     "cuisine": "Türk",
     "duration": "MaLZEMELER",
-    "ingredients": ["6 adet sosis", "1 adet domates", "1 paket lavas ekmegi"],
+    "ingredients": [
+      "6 adet sosis",
+      "1 adet domates",
+      "1 paket lavas ekmegi"
+    ],
     "instructions": "Sosisleri bütün olarak tencereye koyun. Küp küp dogradiginiz domatesi sosislere ekleyip suyunu çekinceye kadar pisirin. Lavaslarin içine sosisleri koyup lavaslari rulo biçiminde sarin.   Üzerine rendelenmis kaşar peyniri serpin. Önceden isitilmis 180 derecelik firinda kaşar peyniri eriyene kadar pisirin."
   },
   {
@@ -15654,7 +15694,11 @@
     "id": 978,
     "cuisine": "baska",
     "duration": "10-20dk",
-    "ingredients": ["220gr su", "160gr şeker", "75grkakao"],
+    "ingredients": [
+      "220gr su",
+      "160gr şeker",
+      "75grkakao"
+    ],
     "instructions": "suşekerkakaoyu kaynatkremayi ekle 5dk. kaynatsogumaya birak.sogoyunca servise hazirdir. krema bulunmadigi zaman nisasta kullanilabilir.kaynama islemi bittikten sonra souce umuzun içerisine az tereyağı ilavesi yapilirsa souce u parlak gösterir."
   },
   {
@@ -15698,7 +15742,11 @@
     "id": 981,
     "cuisine": "Italya",
     "duration": "MaLZEMELER",
-    "ingredients": ["1kg krema", "10adet yumurta sarisi", "250gr şeker"],
+    "ingredients": [
+      "1kg krema",
+      "10adet yumurta sarisi",
+      "250gr şeker"
+    ],
     "instructions": "kremayi vanilya ile kaynat.yumurta sarisi ile şekeri çirpkaynayan kremayi yumurtani içerisine dök.karisimi istenilen kaselere dök ve 100-120 derecelik firin isisinda pisir.sogumaya birak.servise giderken üzerine az miktarda toz şekeri atip tirmusla yakabilirsiniz.tatlimizin üzeri şekerin yanmasiyla (sert)karamelize olmus olur.dondurmayla servise yollanilabilir.      - 982"
   },
   {
@@ -16045,7 +16093,11 @@
     "id": 1005,
     "cuisine": "Fransa",
     "duration": "10-20dk",
-    "ingredients": ["5 yumurta", "200 gr. jambon", "150 gr. eski kaşarpeyniri"],
+    "ingredients": [
+      "5 yumurta",
+      "200 gr. jambon",
+      "150 gr. eski kaşarpeyniri"
+    ],
     "instructions": "Jambonlari tereyağında soteleyin. 5 yumurtayi iyice çirpin. Içinbe rendelenmis kaşar peynirini ekleyin. Hasladiginiz makarnanin -çok sicak olmasi gereklidir- üzerine dökrek karistirin. Üzerine sote jambonlari yagiyla gezdirerek serpin ve 1-2 kez karistirin      - 1006"
   },
   {
@@ -16097,7 +16149,11 @@
     "id": 1009,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["1 çorba kasigi maya", "1 paket un", "tuz"],
+    "ingredients": [
+      "1 çorba kasigi maya",
+      "1 paket un",
+      "tuz"
+    ],
     "instructions": "Mayayi genis bir kapta unla birlikte ılık süt ve tuz ilavesiyle kanstinp boza kivaminda bir hamur elde edin. Üstünü örtüp sicak bir ortamda kabarmasini bekleyin.Teflon tavayi orta hararetteki ocagin üzerinde kizdirip mayalanan hamurdan kepçe kepçe alin ve tavaya döküp yayin. Yanmamasina özen göstererek hemen alt üst edin. Pisen akitmalari tereyağıyla ile yaglanip yaninda balla servis yapin."
   },
   {
@@ -16105,7 +16161,11 @@
     "id": 1010,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["yufka", "margarin", "vanilya"],
+    "ingredients": [
+      "yufka",
+      "margarin",
+      "vanilya"
+    ],
     "instructions": "Yufkayi sigara seklinde sikica sarin. Elde ettiginiz uzun seritten iki-üç parmak ara ile parçalar kesip su dolu bir kaba koyun bir saat kadar bekletin. Derince bir kapta maigarini eritin ve sularini süzdügünüz yufkalari kizgin yaga atip pembelesinceye dek kizartin.Kizaran hamurlari"
   },
   {
@@ -17465,7 +17525,10 @@
     "id": 1091,
     "cuisine": "baska",
     "duration": "20-40dk",
-    "ingredients": ["7 adet paskalya çöregi", "400 gr çilek"],
+    "ingredients": [
+      "7 adet paskalya çöregi",
+      "400 gr çilek"
+    ],
     "instructions": "Paskalya çöreklerinin üst kisimlarini kesin ve bir kasikla içlerini bosaltin.  Çok derin bir kesik olmamasina özen gösterin.  Çilekleri iyice yikayin.  Küçük küçük dograyip krem santinin yarisi ile karistirin.  Elde ettiginiz bu karisimi çöreklerin içine doldurun.  Kestiginiz çöreklerin üst kisimlarini da üzerlerine yerlestirin.  Kremanin kalanini siringaya veya sikma torbasina doldurun ve çöreklerin üzerini süsleyip servis yapin."
   },
   {
@@ -17736,7 +17799,10 @@
     "id": 1107,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["250 gr. bitter çikolata", "125 gr. kuru üzüm"],
+    "ingredients": [
+      "250 gr. bitter çikolata",
+      "125 gr. kuru üzüm"
+    ],
     "instructions": "Çikolatayi eritin ve üzümle parçalanmis bisküviyi ekleyerek karistirin.  bu karisimi yagli kagida dökün ve dondurun.  Soguduktan sonra küçük küçük kesin."
   },
   {
@@ -18516,7 +18582,10 @@
     "id": 1152,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["500 gr yoğurt", "3-4 dis sarımsak"],
+    "ingredients": [
+      "500 gr yoğurt",
+      "3-4 dis sarımsak"
+    ],
     "instructions": "Cam veya porselen bir kasede yogurdu karistirarak krema haline getirin. sarımsaklari ayiklayip tuzla beraber bir tahta havanda döverek ezin ve yogurda katin. Kiyilmis taze sebze veya pismis sebze püreleriyle ve kizartmalariyla servis yapin."
   },
   {
@@ -19528,7 +19597,11 @@
     "id": 1209,
     "cuisine": "Italya",
     "duration": "10-20dk",
-    "ingredients": ["500 gr. dana biftek", "Kimyon", "Kekik"],
+    "ingredients": [
+      "500 gr. dana biftek",
+      "Kimyon",
+      "Kekik"
+    ],
     "instructions": "Eti keskin bir biçakla çok ince kiyin. Demir veya yapismaz yüzekli bir tavayi hafifçe yaglayin. Tavanin büyüklügüne göre eti ikiye veya dörde ayirin.  Kizdirdiginiz tavaya her seferinde bir miktar et koyup devamli karistirarak çok kuvvetli ateste 5 dakika kavurun.  Etlerin tamamini bu sekilde pisirdikten sonra kimyon kekik pul kırmızı biber ve tuz serpip servis yapin.   afiyet olsun..."
   },
   {
@@ -24748,7 +24821,11 @@
     "id": 1509,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["3 adet kabak", "1/2 sise bira", "1 su bardagi un"],
+    "ingredients": [
+      "3 adet kabak",
+      "1/2 sise bira",
+      "1 su bardagi un"
+    ],
     "instructions": "Kabagin kabuklarini soyup 1 cm kalinliginda halka halka dograyin. Derince bir kaba kabaklari koyup üzerine birayi dökün. bu sekilde 1 saat bekletin.   1 su bardagi zeytinyağıni tavada kizdirin. Kabaklari biradan çikarip tek tek una bulayin. Yagin içine atip kizartin. Sicak olarak servis yapin."
   },
   {
@@ -25184,7 +25261,11 @@
     "id": 1535,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["2 su bardagi pirinç", "2 çorba kasigi tereyağı", "Tuz"],
+    "ingredients": [
+      "2 su bardagi pirinç",
+      "2 çorba kasigi tereyağı",
+      "Tuz"
+    ],
     "instructions": "Pirinci ayiklayin yikayin ve süzün. bir tencereye 2 litre (10 su bardagi) su koyup yeteri kadar tuz atin ve ocaga alin. Su kaynamaya baslarken pirinci ilave edin. ara sira karistirarak pirinci yaklasik 20 dakika pisirin. Pirincin iyice süzdükten sonra içine istediginiz bir yag çesidini katip karistirin. Sicak olarak servis edin. bu teknikle pisen en iyi pirinç \"basmati\" pirincidir kesinlikle yapismaz."
   },
   {
@@ -25957,7 +26038,10 @@
     "id": 1575,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["3 adet yumurta", "15 dilim sucuk"],
+    "ingredients": [
+      "3 adet yumurta",
+      "15 dilim sucuk"
+    ],
     "instructions": "Once margarin sahana konur ve hafif ateste isinirken sucuklar atilir. Margarinin erimesi ile yumurtalar kirilarak pismesi beklenir. Istege göre yumurta çirpilabilir. Yumurtanin akan kismi beyaz olana kadar beklenir. Servise sunulur.      - 1576"
   },
   {
@@ -26003,7 +26087,10 @@
     "id": 1580,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["1.2 Kg armut", "600 gr toz şeker"],
+    "ingredients": [
+      "1.2 Kg armut",
+      "600 gr toz şeker"
+    ],
     "instructions": "armutları yıkayıp dört eşit parçaya bölün. Çekirdekleri çıkarıp çekirdek yataklarını temizledikten sonra tencereye koyun. Tencereye bir miktar su ve birkaç adet karanfil koyduktan sonra tencerenin kapağını kapatıp orta ateşe oturtun.  armutlar sularını salıp tekrar çekmeye başladıklarında tencereyi ateşten alın. armutları tahta bir kaşık yardımıyla bastırarak ezip süzgeçten geçirin. armutlara şekeri katın ve tekrar tencereye alıp orta ateşe oturtun. Tahta bir kaşıkla karıştırarak marmelat kıvamına buluncaya dek kaynatın.  Sonra ateşten alın ve soğumaya bırakın. Ilındığında kuru cam kavanozlara boşaltın soğuduğunda kavanozların kapaklarını kapatıp serin bir yerde"
   },
   {
@@ -26011,7 +26098,10 @@
     "id": 1581,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["1 Kg çilek", "1 Kg şeker"],
+    "ingredients": [
+      "1 Kg çilek",
+      "1 Kg şeker"
+    ],
     "instructions": "Çilekleri yıkayıp saplarını çıkarın.  Süzgeçten veya robottan geçirin bir tencereye koyun ve şekerini ilave edin.  Orta hararetli ateşte kıvamı gelene kadar pişirin.  İndireceğinize yakın 1 adet limon suyunu koyup 2-3 dakika daha kaynatın ve ateşten alın.  Sıcakken kavanozlara doldurup soğuduktan sonra kapaklarını kapatın."
   },
   {
@@ -26019,7 +26109,11 @@
     "id": 1582,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["1.5 kg elma", "250 gr toz şeker", "1 adet çubuk tarçın"],
+    "ingredients": [
+      "1.5 kg elma",
+      "250 gr toz şeker",
+      "1 adet çubuk tarçın"
+    ],
     "instructions": "Elmalarıı yıkayıp dört eşit parçaya bölün. Çekirdekleri çıkarıp çekirdek yataklarını temizledikten sonra tencereye koyun. Tencereye bir miktar su ve tarçın koyduktan sonra tencerenin kapağını kapatıp orta ateşe oturtun.   Elmalar sularını salıp tekrar çekmeye başladıklarında tencereyi ateşten alın. Elmaları tahta bir kaşık yardımıyla bastırarak ezip süzgeçten geçirin. Elmalara şekeri katın ve tekrar tencereye alıp orta ateşe oturtun. Tahta bir kaşıkla karıştırarak marmelat kıvamına buluncaya dek kaynatın.   Sonra ateşten alın ve soğumaya bırakın. Ilındığında kuru cam kavanozlara boşaltın soğuduğunda kavanozların kapaklarını kapatıp serin bir yerde muhafaza edin."
   },
   {
@@ -26027,7 +26121,10 @@
     "id": 1583,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["1 kg şeker", "1 kg kuru erik"],
+    "ingredients": [
+      "1 kg şeker",
+      "1 kg kuru erik"
+    ],
     "instructions": "Erikleri bol suda iyice yıkayın bir tencereye koyun ve eriklerin üzerini biraz aşacak kadar kadar su katıp meyveler yumuşayıncaya dek kaynatın. Pişirme işlemi sırasında erikleri birkaç kez karıştırın ve gerekirse tencereye biraz su ilave edin. Erikler iyice yumuşadıklarında ateşten alın ezip kevgirden geçirin. Elde ettiğinizi erik ezmesini tencereye koyun. Şekeri pişmekte olan ezmeye ara ara azar azar ilave edin ve marmelatı devamlı olarak karıştırın. Marmelat kıvamını bulmak üzereyken bir adet limonun suyunu tencereye boşaltın. İki dakika sonra tencere ateşten alın ve marmelat sıcakken kuru kavanozlara doldurun soğuduğunda serin bir yerde saklayın."
   },
   {
@@ -27447,7 +27544,10 @@
     "id": 1664,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["3 orta boy patlıcan", "10 orta boy sivribiber"],
+    "ingredients": [
+      "3 orta boy patlıcan",
+      "10 orta boy sivribiber"
+    ],
     "instructions": "Ön hazırlık olarak patlıcanların kabuklarını soyup 1 cm kalınlığında dilimler halinde kesin. Sivribiberleri saplarının hemen altından birkaç santim boyunda yarıp çekirdeklerim temizleyin. bir kase suya 1 çorba kaşığı tuz koyarak karıştırın ve patlıcanları bu suya koyun. Porselen bir kapakla örtüp üzerine bir ağırlık koyun. 30 dakika bu şekilde beklettikten sonra patlıcanları süzdürüp iyice sıkarak acı sularının gitmesi sağlayın. bir bezle kurulayın. Zeytinyağını bir tavada orta ateşte kızdırın. Patlıcan ve biberleri kızgın yağda bir kez alt üst ederek patlıcanlar altın sarısı bir renk alıncaya biberlerin kabuklarının üzerindeki zar kabuktan ayrılıncaya kadar kızartın. Pişen patlıcan ve biberleri kağıt havlu üzerine çıkartıp fazla yağlarını alın. Patlıcan ve biberleri tabaklara aktarın. Yoğurt ya da domates sosuyla servis yapın."
   },
   {
@@ -29694,7 +29794,11 @@
     "id": 1790,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["500 gr Hamsi", "4 Limon", "1 Kahve Fincanı Zeytinyağı"],
+    "ingredients": [
+      "500 gr Hamsi",
+      "4 Limon",
+      "1 Kahve Fincanı Zeytinyağı"
+    ],
     "instructions": "Hamsilerin kılçıklarını ayıklayıp geniş bir tepsiye dizin. hamsilerin üzerine tuz serpip bir kat daha hamsi dizin. bu işlemi hamsiler bitinceye kadar sürdürün. Limon suyunu hamsilerin üzerine dökerek serin bir yerde bir gün bekletin. Zeytinyağı ve limonla servis yapın."
   },
   {
@@ -29820,7 +29924,10 @@
     "id": 1797,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["1 kg kuzu but (orta yağlı)", "100 gr kuyruk yağı"],
+    "ingredients": [
+      "1 kg kuzu but (orta yağlı)",
+      "100 gr kuyruk yağı"
+    ],
     "instructions": "Kuyruk yağını incecik doğrayarak tencerede yağını saiana kadar kavurun. İçerisine kuşbaşı doğranmış butu ilave edin. Kısık ateşte yaklaşık 1 saat kendi suyu ile pişirin. Tencereyi kapalı kapalı bir şelkilde arada bir silkeleyerek etlerin yer değiştirmesini ve yağ ile temasını sağlayınız. Et pişince üzerine tuz karabiber ve kekik ilave ediniz. Sıcak olarak servis yapınız"
   },
   {
@@ -30920,7 +31027,10 @@
     "id": 1856,
     "cuisine": "Türk",
     "duration": "40-60dk",
-    "ingredients": ["1 kg yağlı ve yumuşak koyun eti", "Tuz"],
+    "ingredients": [
+      "1 kg yağlı ve yumuşak koyun eti",
+      "Tuz"
+    ],
     "instructions": "Yağlı ve yumuşak kuzu etini kuşbaşı iriliğinde doğrayın. Sac veya derin bir teflon tavada tavanın kapağını kapatarak ve kısık ateşte arada bir karıştırarak kavurun. Et suyunu bıraktığında tuzunu ayarlayın. Tavanın kapağını kapatarak kavurmaya devam edin. İyice piştikten sonra servis yapın"
   },
   {
@@ -33708,7 +33818,11 @@
     "id": 2012,
     "cuisine": "Türk",
     "duration": "40-60dk",
-    "ingredients": ["1 Piliç", "100 gr Kuru Kayısı", "30 gr badem"],
+    "ingredients": [
+      "1 Piliç",
+      "100 gr Kuru Kayısı",
+      "30 gr badem"
+    ],
     "instructions": "Pilicin kemiklerini ayıklayıp etlerini iyice döverek yassı hale getirin. Kayısıları zar şeklinde doğrayın. Dövülmüş pilici yayıp içerisine kayısıları ve bademleri doldurun. Üzerine tuz karabiber ilave ederek rulo şeklinde sarın.  Piliç rulosunu alüminyum folyoya sarın. Önceden ısıtılmış 200 derecelik fırında 45 dakika kadar pişirin. Piliç sarmayı ikişer cm kalınlığında kesin. Hazırladığınız piliç sarmanın yanına garnitür olarak şamfıstıklı pilav ilave edebilirsiniz."
   },
   {
@@ -35030,7 +35144,10 @@
     "id": 2089,
     "cuisine": "Fransa",
     "duration": "20-40dk",
-    "ingredients": ["1 Rulo Milföy Hamuru", "1 Yumurta"],
+    "ingredients": [
+      "1 Rulo Milföy Hamuru",
+      "1 Yumurta"
+    ],
     "instructions": "Milföy hamurunu üçe bölüp kenarları 30 cm olan üç kare yufka açın. Her bir kareyi köşeden köşeye çapraz olarak iki kez kesip dörder tane üçgen elde edin.  Üçgenleri geniş kenarından sıvrı ucuna doğru kıvırarak rulo yapın. bir fırın tepsisine un serpin ve kruvasanları yerleştirin.  Yumurtayı çırpıp üzerlerine sürün. Önceden ısıtılmış 220 dereceye ayarlı fırında 10-15 dakika pişirin. Dilerseniz reçel veya marmelat eşliğinde servis yapın."
   },
   {
@@ -35244,7 +35361,11 @@
     "id": 2101,
     "cuisine": "Diger",
     "duration": "20-40dk",
-    "ingredients": ["450 gr sosis", "115 gr yufka", "2 tatlı kaşığı sıvı yağ"],
+    "ingredients": [
+      "450 gr sosis",
+      "115 gr yufka",
+      "2 tatlı kaşığı sıvı yağ"
+    ],
     "instructions": "Sosisleri fırın ızgarasında pişirin. Yufkayı iki kat halinde serin. Keskin bir bıçak yardımıyla 2,5 cm eninde şeritler çıkartın. Pişmiş sosisi yufkaya uçları açıkta kalacak şekilde sarın. Ruloları bir fırın kabına alın ve üstlerine fırçayla yağ sürün. Susamları serpiştirin 200 derece fırında altın sarısı olana kadar kızartın."
   },
   {
@@ -35435,7 +35556,10 @@
     "id": 2113,
     "cuisine": "Diger",
     "duration": "60dk-Fazla",
-    "ingredients": ["750 gr ( 3 bardak) süt", "225 gr ( 1 bardak) tozşeker"],
+    "ingredients": [
+      "750 gr ( 3 bardak) süt",
+      "225 gr ( 1 bardak) tozşeker"
+    ],
     "instructions": "Sütle salebi bir tencerede ateşe koyun. Devamlı karıştırarak 10-15 dakika pişirin. Şeker katıp 5-10 dakika daha kaynatın. ateşten indirdikten sonra savurarak soğutun. Daha önce açıkladığımız gibi buzdolabında veya makinede dondurun."
   },
   {
@@ -36555,7 +36679,10 @@
     "id": 2182,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["250 gr kuru incir", "1/2 bardak tozşeker"],
+    "ingredients": [
+      "250 gr kuru incir",
+      "1/2 bardak tozşeker"
+    ],
     "instructions": "İncirlerin saplarını kesip iyice yıkayın. Dibi düz bir kaba sıralayın. Üzerine bir bardak su dökün ve kısık ateşte yumuşayana dek pişirin. Şeker koyun ve şurup koyulaşınca ateşten indirin.  İncirleri kesilen yönlerinden içlerine ceviz yerleştirin. bir tabağa sıralayıp"
   },
   {
@@ -36915,7 +37042,11 @@
     "id": 2204,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["250 gr tereyağı", "3 su bardağı un", "1 kg. toz şeker"],
+    "ingredients": [
+      "250 gr tereyağı",
+      "3 su bardağı un",
+      "1 kg. toz şeker"
+    ],
     "instructions": "1 kg. Şekere 2 su bardağı su konur ve kaynatılır. Üzerine bir miktar limon sıkılır. Şeker hafif kırmızı renge gelince bir kaşık kadar bu şekerli sudan soğuk su içerisine dökülür katı hale (ağda) gelirse helvanın ağdası olmuş demektir. 250 gr. Yağla kavrulan un büyükçe bir tepsi içerisinde soğutulur soğutulan ağda beyaz bir renk alıncaya kadar çekilip uzatılarak yoğrulur sonra iki ucu birleştirilerek simit şekline getirilir tepsideki soğutulmuş, kavrulmuş un içerisine konur. Üzerine kavrulmuş un dökülerek üç dört kişi tarafından kenarlara doğru çekilerek halka büyütülür bu halka ikiye katlanarak küçültülerek tekrar aynı işlem yapılır. Katlar incelinceye kadar aynı işleme devam edilir. Tel tel olan katlar kopartılarak servis yapılır."
   },
   {
@@ -37071,7 +37202,11 @@
     "id": 2214,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["6 adet sosis", "1 adet domates", "1 paket lavaş ekmeği"],
+    "ingredients": [
+      "6 adet sosis",
+      "1 adet domates",
+      "1 paket lavaş ekmeği"
+    ],
     "instructions": "Sosisleri bütün olarak tencereye koyun. Küp küp doğradığınız domatesi sosislere ekleyip suyunu çekinceye kadar pişirin. Lavaşların içine sosisleri koyup lavaşları rulo biçiminde sarın.   Üzerine rendelenmiş kaşar peyniri serpin. Önceden ısıtılmış 180 derecelik fırında kaşar peyniri eriyene kadar pişirin."
   },
   {
@@ -37183,7 +37318,12 @@
     "id": 2222,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["1 kg kabak", "250gr un", "Tuz", "Kızartmalık zeytinyağı"],
+    "ingredients": [
+      "1 kg kabak",
+      "250gr un",
+      "Tuz",
+      "Kızartmalık zeytinyağı"
+    ],
     "instructions": "Kabakları cips patates gibi dilimleyin (ince). Sonra yıkayıp tuzlayıp 30dk bekletin.Tekrar suda yıkayıp unlayıp suya batırdıktan sonra (özellikle undan sonra su) mutlaka fritöze kızgın yağa atıp kabakları kızartın. Sonra tarator ile servis yapın."
   },
   {
@@ -37299,7 +37439,10 @@
     "id": 2229,
     "cuisine": "Türk",
     "duration": "40-60dk",
-    "ingredients": ["500 gr. az yağlı kıyma", "4-5 domates"],
+    "ingredients": [
+      "500 gr. az yağlı kıyma",
+      "4-5 domates"
+    ],
     "instructions": "Kıymaya karabiberi tuzu konur ve iyice yoğrulur. Etler adana Kebabında olduğu gibi şişlere geçirilir. Domatesler şişlere geçirilir ve ızgarada pişirilir kabukları soyulur tokmakla ezilir ve bir tabağa konur. Izgarada çevirerek"
   },
   {
@@ -37319,7 +37462,10 @@
     "id": 2231,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["3 yufka", "2 tavuk budu"],
+    "ingredients": [
+      "3 yufka",
+      "2 tavuk budu"
+    ],
     "instructions": "Önce butları haşlıyoruz ve soğuduktan sonra güzelce ayıklayıp tiftiyoruz. Karabiber ve tuzla harmanlıyoruz. bir yufkayı dört parçaya ayırıyoruz ve herbir parçanın geniş kenarına tiftilmiş tavuktan yayıyoruz. Sonra sigara böreği ile sarıp gül böreği şeklinde yuvarlıyoruz. bu şekilde hazırladığımız yufkaları bir tepsiye dizip fırına veriyoruz. Fırında yufkaların hafifçe pembeleşmesini bekliyoruz kesinlikle kızarmayacak. Sonra tepsimizi fırından çıkarıp tavukları haşladığımız ve hala ılık olan suyu yufkaların üzerine gezdiriyoruz ve tepsinin üzerini kapatıyoruz ki yufkalar suyu iyice çeksin. 10 dakika kadar sonra sarımsaklı yoğurt ve kırmızı biberle kızdırılmış yağ ile servis yapabiliriz. Gayet lezzetli ve güzel bir ara menü."
   },
   {
@@ -37450,7 +37596,10 @@
     "id": 2240,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["1/2 kg kıyma", "1/2  kg. yeni dünya"],
+    "ingredients": [
+      "1/2 kg kıyma",
+      "1/2  kg. yeni dünya"
+    ],
     "instructions": "Kıyma tuz ve karabiber biraz su ilavesiyle yoğrulur. Etten ceviz büyüklüğünde parçalar koparılarak yuvarlak köfteler yapılır. Yeni dünyaların iri olanı seçilir ve ortadan kesilerek çekirdekleri çıkarılır. &#353;işe bir köfte bir yenidünya saplanır mangalda pişirilir ve sıcak sıcak servis yapılır."
   },
   {
@@ -38431,7 +38580,11 @@
     "id": 2305,
     "cuisine": "Diger",
     "duration": "10-20dk",
-    "ingredients": ["tost ekmegi", "kati yag", "muz"],
+    "ingredients": [
+      "tost ekmegi",
+      "kati yag",
+      "muz"
+    ],
     "instructions": "tost ekmeklerinin bir tarafina kati yag sur. dilimlenmis muzlari uzerine koy. ve muzlarin uzerine patetes cipsini koy. yaglanis diger tost ekmegininin yagli kismi altta kalacak sekilde ustunu kapa. arzuya gore ucgen yada kare olacak sekilde kes. ve servis yap."
   },
   {
@@ -38439,7 +38592,11 @@
     "id": 2305,
     "cuisine": "Diger",
     "duration": "10-20dk",
-    "ingredients": ["tost ekmegi", "kati yag", "muz"],
+    "ingredients": [
+      "tost ekmegi",
+      "kati yag",
+      "muz"
+    ],
     "instructions": "tost ekmeklerinin bir tarafina kati yag sur. dilimlenmis muzlari uzerine koy. ve muzlarin uzerine patetes cipsini koy. yaglanis diger tost ekmegininin yagli kismi altta kalacak sekilde ustunu kapa. arzuya gore ucgen yada kare olacak sekilde kes. ve servis yap."
   },
   {
@@ -41436,7 +41593,10 @@
     "id": 2484,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["1 paket kare milföy hamuru", "500 gr kokteyl sosis"],
+    "ingredients": [
+      "1 paket kare milföy hamuru",
+      "500 gr kokteyl sosis"
+    ],
     "instructions": "1 Milföy hamurlarını merdaneyle 2.5 mm kalınlığında olacak şekilde inceltip sosisleri saracak ve biraz uzun olacak şekilde kesin.   2 Her bir milföy parçasının ortasına 1 sosis koyup rulo şeklinde sarın. Uçlarını şeker kağıdı şeklinde kapatın. Üzerlerine yumurta sarısı sürüp önceden ısıtılmış 180 dereceye ayarlı fırında 25-30 dakika pişirin. Ilık olarak servis yapın."
   },
   {
@@ -41498,7 +41658,10 @@
     "id": 2489,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["2 yemek kaşığı nohut veya fasulye", "1 çay kaşığı yağ"],
+    "ingredients": [
+      "2 yemek kaşığı nohut veya fasulye",
+      "1 çay kaşığı yağ"
+    ],
     "instructions": "Nohut fasulye ayıklanır yıkanır ve 8-10 saat süreyle ıslatılır. Islatma suyu dökülür. Yumuşayan nohut ve fasulyenin kabukları soyulur. Üzerini 1-2 parmak geçecek kadar su ile yumuşayıncaya kadar pişirilir. Pişen nohut fasulye haşlama suyu içinde çatalla ezilir. Haşlama suyu dökülmez"
   },
   {
@@ -41713,7 +41876,11 @@
     "id": 2503,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["4-5 Patates", "1 Kuru soğan", "1-2 Corba Kasigi Mayonez"],
+    "ingredients": [
+      "4-5 Patates",
+      "1 Kuru soğan",
+      "1-2 Corba Kasigi Mayonez"
+    ],
     "instructions": "Patatesler haslanir soyularak kucuk dogranir. soğan dogranip tuzlanir suyu cikartilir. soğan sicak patates bol kori karistirilir ustu kapatilarak bir sure bekletilir. Soguduktan sonra mayonez karistirilarak servis yapilir.afiyet olsun..."
   },
   {
@@ -42092,7 +42259,10 @@
     "id": 2531,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["Savoyer bisküvi", "Vanilyalı puding"],
+    "ingredients": [
+      "Savoyer bisküvi",
+      "Vanilyalı puding"
+    ],
     "instructions": "Savoyer bisküvilerini kilitli kek kalıbının dibine ve kenarlarına da dikine olarak dizin. Hazır paketlerde aldığınız vanilyalı pudingi hazırlayın. Dizilmiş olan savoyerlerin üzerine pudingi bir kat dökün. Tekrar bir sıra daha savoyer döşeyin ve tekrar puding dökün.   Kalıbın derinliğine ve isteğe göre kat sayısını ayarlayın ancak en üstte puding koyun. Kenarlardaki savoyerleri pastanın üzerine kıvırın. En üste de çikolata sosu dökerek servis yapın."
   },
   {
@@ -43475,7 +43645,9 @@
     "id": 2621,
     "cuisine": "Fransa",
     "duration": "20-40dk",
-    "ingredients": ["1 adet ahtapot"],
+    "ingredients": [
+      "1 adet ahtapot"
+    ],
     "instructions": "Taze ve yeni yakalanmış ahtapot taşlara vurularak yumuşatılır. bu işlem sırasında ahtapot köpük salmaya başlar ve köpükler bitene kadar bu işleme devam edilir. Yumuşatılmış ahtapot birkaç gün güneşte kurumaya bırakılır.   Mangalda mangal kömürü yakılarak kor haline getirilir. Mangala yerleştirilen tel ızgaranın üzerine ahtapot konularak kızartılır. Kızartılmış ahtapot bilahare küçük parçalara doğranarak kırmızı soğan eşliğinde meze olarak sunulur.   Sıcak veya soğuk servis yapılır."
   },
   {
@@ -44495,7 +44667,11 @@
     "id": 2688,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["Portakal:1kg", "Şeker:1.250gr", "Limon:1ad"],
+    "ingredients": [
+      "Portakal:1kg",
+      "Şeker:1.250gr",
+      "Limon:1ad"
+    ],
     "instructions": "Portakallarımızı kabuklarını kabak çizeceğiyle çizip yarım saat suda bekletiyoruz eger kabak çizeceği yoksa streç'leri kesmek için tırtıllı şeritleriylede çize bilirsiniz. Portakallarının kabukları acımsı tatdadır acımsı tadı kabuklarını  çizerek ve suda bekleterek hepsini olmasada büyük bir kısmını yok etmiş oluruz. Portakallarımızı kabuğuyla doğrayalım küpküp. Doğradığımız portakalları 250gr şekerle karıştırıp sulanması  için yarım saat bekletelim. Yarım saat geçtikten sonra portakallarımızı tencereye koyup şekeri ilave edip kapalı bir tencerede kaynatalım bir saat kadar. Unutmayalım arasıra tencerenin kapağını açıp köğüklerimzi alalım reçelemizin rengini bozar. Reçelimizi kaynattıktan sonra kapağı kapalı bir şekilde bir gün  bekletelim. Tekrar kaynatalım neden çünkü portakal çabuk özleşmez ve sulu bir kıvamı olur. Reçelimiz soğuduktan sonra kavonozumuzun kuru olmasına dikkat edelim şekerlenme yapabilir. Kavonozumuzun kapağını kaynayan suya atıp bir kaç dakika  kaynatalım. Kapağımızı kurulayıp hemen kapatalım ve ters çevirip güneş almayan yerde en az on gün dinlendirelim. aFİYET OLSUN..."
   },
   {
@@ -44503,7 +44679,11 @@
     "id": 2689,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["Vişne:1kg", "Şeker:1.15ogr", "Limon:1ad"],
+    "ingredients": [
+      "Vişne:1kg",
+      "Şeker:1.15ogr",
+      "Limon:1ad"
+    ],
     "instructions": "Vişnelerimizin çekirdeklerini çıkartalım. Vişnelerimizi bir kaba koyup 150gr şekeri ekleyip yarım saat sulanması bekleyelim. Vişnelerimiz sulandıktan sonra tenceremize koyup şekeri ilave edip ağzı açık şekilde kaynatalım bir birbuçuk saat kadar ve sıksık köpüğünü alalım reçelimizin rengi bozulmasın. kaynayıp soğuduktan sonra kavonozumuzun kuru olmasına  dikkat edelim. Kavonozumuzun kapağını kanynar suda bir kaç dakika kaynatıp kurulayıp hemen kapatalım ve ters çevirip güneş görmeyen bir  yerde en az on beş gün dinlendirelim.   afiyet olsun..."
   },
   {
@@ -46045,7 +46225,11 @@
     "id": 2779,
     "cuisine": "Diger",
     "duration": "60dk-Fazla",
-    "ingredients": ["500 gr kokulu muz", "yarım lt brandy", "450 gr toz şeker"],
+    "ingredients": [
+      "500 gr kokulu muz",
+      "yarım lt brandy",
+      "450 gr toz şeker"
+    ],
     "instructions": "Muzları iyice yıkayınız. Kabuklarını soyup bir kavanoza yerleştiriniz. Üzerine kadar brandy koyup kavanozun ağzını sıkıca kapayınız. Kavanozu serin bir yerde dört-beş gün bekletiniz. bu beklemenin sonunda kavanozu bir süzgeçe boşaltıp brandy süzerek alınız. Toz şekerini su içinde koyu kıvamda oluncaya kadar kaynatarak eritiniz. Şekeri soğutup brandy ile karıştırınız. Muz esansını bu karışımın içine katınız. Şişekeri yıkayıp kurulayınız. ağızlarına bir huni koyunuz. Huninin içine bir tutam pamuk koyup yaptığınız brandy şeker karışımını buraya dökünüz. Pamuk bir filtre görevi görecektir. Şişekere süzdüğünüz muz likörünü şişekerin ağzını sıkıca kapatıp mayalanmaya bırakınız. Yaptığınız likör bir iki ay süre beklediktren sonra ikram edilecek duruma gelecektir."
   },
   {
@@ -46231,7 +46415,10 @@
     "id": 2794,
     "cuisine": "Diger",
     "duration": "20-40dk",
-    "ingredients": ["1/2 lt espanyol sos", "1/2 lt  et suyu"],
+    "ingredients": [
+      "1/2 lt espanyol sos",
+      "1/2 lt  et suyu"
+    ],
     "instructions": "Espanyol sos ve et suyu birlikte kaynatılıp içine beyaz şarap ilave edilir.Servise hazırdır.Diger sosların yapımında kullanılır."
   },
   {
@@ -46367,7 +46554,12 @@
     "id": 2802,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["Tuz", "buz", "Votka", "Maden sodası"],
+    "ingredients": [
+      "Tuz",
+      "buz",
+      "Votka",
+      "Maden sodası"
+    ],
     "instructions": "buz bir bez icinde dövulerek parcalanir. Servis bardagina konarak icerisine arzu edilen ölcude votka doldurulur icine 1 caykasigi tuz atilir yarim limonsuyu eklendikten sonro tuz eriyene kadar karistirilir. Icine maden sodasi eklenerek servis yapilir.  afiyet olsun."
   },
   {
@@ -46375,7 +46567,10 @@
     "id": 2803,
     "cuisine": "Türk",
     "duration": "40-60dk",
-    "ingredients": ["1kg portakal", "1 adet limon"],
+    "ingredients": [
+      "1kg portakal",
+      "1 adet limon"
+    ],
     "instructions": "bir sürahiye 2 bardak şekeri koyun. 1 kg. portakalın suyunu sıkın. Şekerle karıştırın. Limon suyunu da ekleyip karıştırın ve 15 dakika buzdolabında bekletin. Sonra süzün ve bardaklara boşaltın. Portakal dilimleriyle servis yapın.  afiyet olsun."
   },
   {
@@ -46468,7 +46663,10 @@
     "id": 2810,
     "cuisine": "Türk",
     "duration": "60dk-Fazla",
-    "ingredients": ["1,5-2 kg üzüm", "1/2 - 1 su bardağı toz şeker"],
+    "ingredients": [
+      "1,5-2 kg üzüm",
+      "1/2 - 1 su bardağı toz şeker"
+    ],
     "instructions": "Üzümleri iyice yıkadıktan sonra saplarından kopartıp bir kevgire koyun. Kevgirde birikerek suları süzülen üzümleri çekirdeklerini kırmamaya özen göstererek iyice ezip sularını çıkartın. Elde edilen bu sulu posanın üzerine alabildiğince sıcak su koyarak 1 gün kadar bir süre öylece bekletin. Yaklaşık 1 gün sonra fermante olmuş üzüm suyunu bir tülbentten süzerek posasını alın. arta kalan üzüm suyuna çok az miktarda toz şekeri ilave ederek tahta bir kaşık yardımıyla iyice karıştırın. ardından şişekere dökerek soğutup servise hazır hale getirin.  afiyet olsun."
   },
   {
@@ -47148,7 +47346,10 @@
     "id": 2859,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["4-5 dilim bayat ekmek", "2 yemek kaşığı tereyağı"],
+    "ingredients": [
+      "4-5 dilim bayat ekmek",
+      "2 yemek kaşığı tereyağı"
+    ],
     "instructions": "bayat ekmekleri kuşbaşı et formunda doğrayın. bir tavaya yağı koyup erir erimez ekmekleri içine atıp 8-10 dakika kadar karıştırarak kızartın. İki adet çırpılmış yumurtayı ekmeklerin üzerine gezdirerek birlikte çevrilmek suretiyle 7-8 dakika daha kavurun. Sıcak sıcak servise çayla beraber sunabilirsiniz.  afiyet olsun."
   },
   {
@@ -48322,7 +48523,10 @@
     "id": 2956,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["40ml: beyaz şarap", "20ml:kahve likörü"],
+    "ingredients": [
+      "40ml: beyaz şarap",
+      "20ml:kahve likörü"
+    ],
     "instructions": "Malzemeleri içi buzdolu shaker'da çalkalayıp buzla servis yapin.  afiyet olsun..."
   },
   {
@@ -48355,7 +48559,11 @@
     "id": 2959,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["40ml: konyak", "20ml: yumurta likörü", "10ml: muz likörü"],
+    "ingredients": [
+      "40ml: konyak",
+      "20ml: yumurta likörü",
+      "10ml: muz likörü"
+    ],
     "instructions": "bütün malzemeyi buz dolu shaker içine doldurup karıştırın ve üzerine palmiye şeklinde kesilmiş elmayla servis edin.   afiyet olsun..."
   },
   {
@@ -48375,7 +48583,11 @@
     "id": 2961,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["20ml: muz likörü", "40ml: kanyak", "20ml: ananas suyu"],
+    "ingredients": [
+      "20ml: muz likörü",
+      "40ml: kanyak",
+      "20ml: ananas suyu"
+    ],
     "instructions": "Şampanya haricinde bütün malzemeyi buz dolu shaker içinde karıştırın. ayaklı bir bardağa doldurup üzerini şampanyayla tamamlayın.   afiyet olsun..."
   },
   {
@@ -48383,7 +48595,10 @@
     "id": 2962,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["40ml: muz suyu", "70ml: süt"],
+    "ingredients": [
+      "40ml: muz suyu",
+      "70ml: süt"
+    ],
     "instructions": "Yarısına kadar buz dolu shaker içinde muz ve sütü doldurup karıştırın. Üzerine karıştırmadan mavi curaçao ekleyip servis edin.   afiyet olsun..."
   },
   {
@@ -48391,7 +48606,11 @@
     "id": 2963,
     "cuisine": "Türk",
     "duration": "10-20dk",
-    "ingredients": ["40ml: cin", "20ml: beğendik likörü", "10ml: martnin dry"],
+    "ingredients": [
+      "40ml: cin",
+      "20ml: beğendik likörü",
+      "10ml: martnin dry"
+    ],
     "instructions": "Yarısına kadar buz dolu shaker içine tüm malzemeyi doldurup karıştırın meyveyle süsleyip servis edin.   afiyet olsun..."
   },
   {
@@ -48672,7 +48891,10 @@
     "id": 2985,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["350 gr hamur", "70 gr  Trabzon peyniri"],
+    "ingredients": [
+      "350 gr hamur",
+      "70 gr  Trabzon peyniri"
+    ],
     "instructions": "Peynir bir gün önceden doğranır rendeye vurulur ve bir miktar su karıştırılarak dinlenmeye bırakılır. Un tuz ve maya karıştırılarak ekmek hamurundan daha gevşek hamur elde edilir. 350 gr.lık kesilerek şekillendirilir. Hamur tahta üzerinde dinlendirilir. Fırın 200 derece sıcaklığında hazırlanır. Yine ayrı bir tahta üzerinde kayık şeklinde hazırlanan hamur içine peynir konulur ve üzerine fırça ile su veya un bulamacı sürülerek fırına sürülür. Pişince içine tere yağı konularak servis yapılir.  afiyet olsun..."
   },
   {
@@ -48845,7 +49067,10 @@
     "id": 2999,
     "cuisine": "Türk",
     "duration": "20-40dk",
-    "ingredients": ["4 adet kırmızı elma", "2 su bardagi tozşeker"],
+    "ingredients": [
+      "4 adet kırmızı elma",
+      "2 su bardagi tozşeker"
+    ],
     "instructions": "Oncelikle elmalar yikanir ve kurulanir.Saplari kivirilarak kopartilir.Renkli cubuklar elma saplarinin bulundugu yere batirilir.Toz şekeri ve suyu kuçuk bir tencereye  konulur.Orta ateste şeker eritilir ve koyulasmasi için 10-15 dk  kaynatilir.Koyulasan surub atesten alinir ve uzerinde olusan kabarciklar yokolana kadar bekletilir.Hazirladigimiz elmalari teker teker suruba batiralim ve fazlasini tencerenin kenarina siyiralim.butun elmalari ayni islemden gecirelim ve yagli kagit bulunan tepsiye dizelim.buzdolabina tepsiyle beraber elmalari koyalim ve 10 dk sonra elma şekerlerimiz hazirdir.  afiyet olsun..."
   },
   {
@@ -48864,5 +49089,3652 @@
       "Tuz ,karabiber"
     ],
     "instructions": "Oncelikle havuclar iyice yikanir ve kabuklari kazinir.Rendenin ince kismi ile rendelenir havuçlar.ayri bir kapta yoğurtmayonezdovulmus sarımsaksıvı yağlimon suyutuzu  karistiralim.bu sosa havuçlari ilave edelim ve iyice karistiralim.Servis tabagina yikanip kurulanan marullar  dizilir ve  mayonezli havuç salatasi marullarin ortasina  bosaltilir.Uzerine kırmızı pul biber ve  kiyilmis maydanoz serpilir.  afiyet olsun..."
+  },
+  {
+    "id": 3001,
+    "title": "Spagetti Karbonara",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve."
+  },
+  {
+    "id": 3002,
+    "title": "Ratatuy",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender."
+  },
+  {
+    "id": 3003,
+    "title": "Tabule",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "1/2 cup bulgur",
+      "2 cups maydanoz",
+      "1 domates",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1 limon (suyu)",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving."
+  },
+  {
+    "id": 3004,
+    "title": "Şarapta Tavuk",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un."
+  },
+  {
+    "id": 3005,
+    "title": "Margarita Pizza",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "1 pizza hamuru",
+      "100g mozzarella",
+      "100g domates sauce",
+      "taze fesleğen",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden."
+  },
+  {
+    "id": 3006,
+    "title": "İçli Köfte",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "500g kıyma (kuzu)",
+      "1 cup bulgur",
+      "1 soğan",
+      "1 tsp tarçın",
+      "1/2 tsp yenibahar",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned."
+  },
+  {
+    "id": 3007,
+    "title": "Ratatuy Varyasyon 57",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3008,
+    "title": "Spagetti Karbonara Varyasyon 54",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3009,
+    "title": "Spagetti Karbonara Varyasyon 58",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3010,
+    "title": "Spagetti Karbonara Varyasyon 2",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3011,
+    "title": "Ratatuy Varyasyon 90",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3012,
+    "title": "Tabule Varyasyon 35",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "1/2 cup bulgur",
+      "2 cups maydanoz",
+      "1 domates",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1 limon (suyu)",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3013,
+    "title": "Spagetti Karbonara Varyasyon 1",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3014,
+    "title": "Margarita Pizza Varyasyon 48",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "1 pizza hamuru",
+      "100g mozzarella",
+      "100g domates sauce",
+      "taze fesleğen",
+      "zeytinyağı",
+      "tuz",
+      "kekik"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3015,
+    "title": "Spagetti Karbonara Varyasyon 91",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3016,
+    "title": "Spagetti Karbonara Varyasyon 62",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3017,
+    "title": "Margarita Pizza Varyasyon 19",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "1 pizza hamuru",
+      "100g mozzarella",
+      "100g domates sauce",
+      "taze fesleğen",
+      "zeytinyağı",
+      "tuz",
+      "kekik"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3018,
+    "title": "Şarapta Tavuk Varyasyon 93",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3019,
+    "title": "Şarapta Tavuk Varyasyon 53",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3020,
+    "title": "Margarita Pizza Varyasyon 17",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "1 pizza hamuru",
+      "100g mozzarella",
+      "100g domates sauce",
+      "taze fesleğen",
+      "zeytinyağı",
+      "tuz",
+      "kekik"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3021,
+    "title": "Ratatuy Varyasyon 25",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3022,
+    "title": "İçli Köfte Varyasyon 9",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "500g kıyma (kuzu)",
+      "1 cup bulgur",
+      "1 soğan",
+      "1 tsp tarçın",
+      "1/2 tsp yenibahar",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3023,
+    "title": "Ratatuy Varyasyon 58",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3024,
+    "title": "Tabule Varyasyon 10",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "1/2 cup bulgur",
+      "2 cups maydanoz",
+      "1 domates",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1 limon (suyu)",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3025,
+    "title": "Şarapta Tavuk Varyasyon 12",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3026,
+    "title": "Şarapta Tavuk Varyasyon 91",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3027,
+    "title": "Ratatuy Varyasyon 98",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3028,
+    "title": "İçli Köfte Varyasyon 77",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "500g kıyma (kuzu)",
+      "1 cup bulgur",
+      "1 soğan",
+      "1 tsp tarçın",
+      "1/2 tsp yenibahar",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3029,
+    "title": "İçli Köfte Varyasyon 28",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "500g kıyma (kuzu)",
+      "1 cup bulgur",
+      "1 soğan",
+      "1 tsp tarçın",
+      "1/2 tsp yenibahar",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3030,
+    "title": "Tabule Varyasyon 89",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "1/2 cup bulgur",
+      "2 cups maydanoz",
+      "1 domates",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1 limon (suyu)",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3031,
+    "title": "Ratatuy Varyasyon 75",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3032,
+    "title": "Şarapta Tavuk Varyasyon 42",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3033,
+    "title": "Tabule Varyasyon 51",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "1/2 cup bulgur",
+      "2 cups maydanoz",
+      "1 domates",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1 limon (suyu)",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3034,
+    "title": "Margarita Pizza Varyasyon 8",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "1 pizza hamuru",
+      "100g mozzarella",
+      "100g domates sauce",
+      "taze fesleğen",
+      "zeytinyağı",
+      "tuz",
+      "kekik"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3035,
+    "title": "Ratatuy Varyasyon 55",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3036,
+    "title": "İçli Köfte Varyasyon 67",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "500g kıyma (kuzu)",
+      "1 cup bulgur",
+      "1 soğan",
+      "1 tsp tarçın",
+      "1/2 tsp yenibahar",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3037,
+    "title": "Spagetti Karbonara Varyasyon 54",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3038,
+    "title": "Şarapta Tavuk Varyasyon 84",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3039,
+    "title": "İçli Köfte Varyasyon 90",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "500g kıyma (kuzu)",
+      "1 cup bulgur",
+      "1 soğan",
+      "1 tsp tarçın",
+      "1/2 tsp yenibahar",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3040,
+    "title": "Margarita Pizza Varyasyon 34",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "1 pizza hamuru",
+      "100g mozzarella",
+      "100g domates sauce",
+      "taze fesleğen",
+      "zeytinyağı",
+      "tuz",
+      "kekik"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3041,
+    "title": "Şarapta Tavuk Varyasyon 84",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3042,
+    "title": "Tabule Varyasyon 60",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "1/2 cup bulgur",
+      "2 cups maydanoz",
+      "1 domates",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1 limon (suyu)",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3043,
+    "title": "Margarita Pizza Varyasyon 61",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "1 pizza hamuru",
+      "100g mozzarella",
+      "100g domates sauce",
+      "taze fesleğen",
+      "zeytinyağı",
+      "tuz",
+      "kekik"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3044,
+    "title": "Spagetti Karbonara Varyasyon 44",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3045,
+    "title": "İçli Köfte Varyasyon 45",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "500g kıyma (kuzu)",
+      "1 cup bulgur",
+      "1 soğan",
+      "1 tsp tarçın",
+      "1/2 tsp yenibahar",
+      "tuz",
+      "pepper"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3046,
+    "title": "Tabule Varyasyon 23",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "1/2 cup bulgur",
+      "2 cups maydanoz",
+      "1 domates",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1 limon (suyu)",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3047,
+    "title": "Spagetti Karbonara Varyasyon 7",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "100g pastırma",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3048,
+    "title": "Şarapta Tavuk Varyasyon 94",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3049,
+    "title": "Şarapta Tavuk Varyasyon 41",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "200g mantar",
+      "1 soğan",
+      "2 havuç",
+      "2 cups kırmızı şarap",
+      "1 tbsp un",
+      "kekik",
+      "tereyağı",
+      "tuz",
+      "pepper",
+      "sarımsak"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3050,
+    "title": "Ratatuy Varyasyon 64",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "1 yumurtaplant",
+      "1 kabak",
+      "1 biber",
+      "2 domateses",
+      "1 soğan",
+      "zeytinyağı",
+      "kekik",
+      "tuz",
+      "pepper",
+      "kekik"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlarla süsleyin."
+  },
+  {
+    "id": 3051,
+    "title": "Şarapta Tavuk Karışım 415",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3052,
+    "title": "İçli Köfte Karışım 730",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "nane",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3053,
+    "title": "İçli Köfte Karışım 213",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "nane",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3054,
+    "title": "Margarita Pizza Karışım 998",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3055,
+    "title": "Ratatuy Karışım 378",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3056,
+    "title": "Spagetti Karbonara Karışım 409",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "fesleğen",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3057,
+    "title": "Spagetti Karbonara Karışım 885",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "krema",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3058,
+    "title": "Tabule Karışım 314",
+    "cuisine": "French",
+    "duration": "20 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "kekik",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3059,
+    "title": "Ratatuy Karışım 847",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3060,
+    "title": "İçli Köfte Karışım 146",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3061,
+    "title": "Margarita Pizza Karışım 856",
+    "cuisine": "French",
+    "duration": "30 dk",
+    "ingredients": [
+      "pul biber",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3062,
+    "title": "Margarita Pizza Karışım 304",
+    "cuisine": "French",
+    "duration": "30 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "krema",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3063,
+    "title": "Şarapta Tavuk Karışım 778",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3064,
+    "title": "Tabule Karışım 570",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "kekik",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3065,
+    "title": "Şarapta Tavuk Karışım 110",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "kekik",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3066,
+    "title": "Margarita Pizza Karışım 126",
+    "cuisine": "French",
+    "duration": "30 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3067,
+    "title": "Tabule Karışım 551",
+    "cuisine": "Italian",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "krema",
+      "1 limon (suyu)",
+      "sarımsak",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3068,
+    "title": "Tabule Karışım 996",
+    "cuisine": "French",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "maydanoz",
+      "1 limon (suyu)",
+      "sarımsak",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3069,
+    "title": "Ratatuy Karışım 803",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3070,
+    "title": "Spagetti Karbonara Karışım 377",
+    "cuisine": "Lebanese",
+    "duration": "25 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "200g spagetti",
+      "2 yumurta",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3071,
+    "title": "Ratatuy Karışım 990",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "maydanoz",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3072,
+    "title": "İçli Köfte Karışım 477",
+    "cuisine": "French",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "nane",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "sarımsak",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3073,
+    "title": "Spagetti Karbonara Karışım 364",
+    "cuisine": "Lebanese",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "maydanoz",
+      "fesleğen",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3074,
+    "title": "Ratatuy Karışım 613",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "pul biber",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3075,
+    "title": "İçli Köfte Karışım 334",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3076,
+    "title": "Ratatuy Karışım 580",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "pul biber",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3077,
+    "title": "İçli Köfte Karışım 285",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "maydanoz",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3078,
+    "title": "Ratatuy Karışım 689",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "fesleğen",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3079,
+    "title": "Şarapta Tavuk Karışım 999",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "kekik",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3080,
+    "title": "Ratatuy Karışım 551",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "maydanoz",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3081,
+    "title": "Tabule Karışım 556",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "nane",
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "kekik",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3082,
+    "title": "Tabule Karışım 621",
+    "cuisine": "French",
+    "duration": "20 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "kekik",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3083,
+    "title": "Spagetti Karbonara Karışım 556",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "krema",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3084,
+    "title": "Şarapta Tavuk Karışım 998",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3085,
+    "title": "Ratatuy Karışım 227",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "pul biber",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3086,
+    "title": "Margarita Pizza Karışım 621",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "nane",
+      "pul biber",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3087,
+    "title": "Ratatuy Karışım 455",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3088,
+    "title": "Margarita Pizza Karışım 536",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "krema",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3089,
+    "title": "İçli Köfte Karışım 586",
+    "cuisine": "French",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3090,
+    "title": "Şarapta Tavuk Karışım 620",
+    "cuisine": "Italian",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "kekik",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3091,
+    "title": "Margarita Pizza Karışım 243",
+    "cuisine": "Lebanese",
+    "duration": "30 dk",
+    "ingredients": [
+      "fesleğen",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3092,
+    "title": "Ratatuy Karışım 387",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "fesleğen",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3093,
+    "title": "Margarita Pizza Karışım 751",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "nane",
+      "fesleğen",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3094,
+    "title": "Şarapta Tavuk Karışım 181",
+    "cuisine": "Italian",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3095,
+    "title": "Şarapta Tavuk Karışım 665",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3096,
+    "title": "Margarita Pizza Karışım 992",
+    "cuisine": "French",
+    "duration": "30 dk",
+    "ingredients": [
+      "nane",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3097,
+    "title": "Spagetti Karbonara Karışım 584",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3098,
+    "title": "İçli Köfte Karışım 810",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3099,
+    "title": "Şarapta Tavuk Karışım 735",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "nane",
+      "2 havuç",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3100,
+    "title": "İçli Köfte Karışım 306",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3101,
+    "title": "Ratatuy Karışım 169",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3102,
+    "title": "Tabule Karışım 185",
+    "cuisine": "Italian",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "kekik",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3103,
+    "title": "İçli Köfte Karışım 650",
+    "cuisine": "French",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3104,
+    "title": "Ratatuy Karışım 592",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3105,
+    "title": "Şarapta Tavuk Karışım 442",
+    "cuisine": "Italian",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "sarımsak",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3106,
+    "title": "Şarapta Tavuk Karışım 513",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "nane",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3107,
+    "title": "Margarita Pizza Karışım 257",
+    "cuisine": "Lebanese",
+    "duration": "30 dk",
+    "ingredients": [
+      "maydanoz",
+      "krema",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3108,
+    "title": "Spagetti Karbonara Karışım 536",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "nane",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3109,
+    "title": "Şarapta Tavuk Karışım 455",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "nane",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3110,
+    "title": "Ratatuy Karışım 280",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3111,
+    "title": "Spagetti Karbonara Karışım 545",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "200g spagetti",
+      "2 yumurta",
+      "sarımsak",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3112,
+    "title": "Şarapta Tavuk Karışım 454",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "sarımsak",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3113,
+    "title": "Tabule Karışım 419",
+    "cuisine": "Italian",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "kekik",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3114,
+    "title": "Şarapta Tavuk Karışım 433",
+    "cuisine": "Italian",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3115,
+    "title": "Margarita Pizza Karışım 886",
+    "cuisine": "Lebanese",
+    "duration": "30 dk",
+    "ingredients": [
+      "fesleğen",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3116,
+    "title": "Tabule Karışım 915",
+    "cuisine": "Italian",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "sarımsak",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3117,
+    "title": "Spagetti Karbonara Karışım 296",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "krema",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3118,
+    "title": "İçli Köfte Karışım 505",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "maydanoz",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3119,
+    "title": "Ratatuy Karışım 403",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3120,
+    "title": "Spagetti Karbonara Karışım 492",
+    "cuisine": "Lebanese",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "krema",
+      "fesleğen",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3121,
+    "title": "Tabule Karışım 802",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "fesleğen",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3122,
+    "title": "Ratatuy Karışım 992",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3123,
+    "title": "Margarita Pizza Karışım 464",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "taze fesleğen",
+      "sarımsak",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3124,
+    "title": "Ratatuy Karışım 590",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3125,
+    "title": "Spagetti Karbonara Karışım 365",
+    "cuisine": "Lebanese",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "nane",
+      "2 yumurta",
+      "krema",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3126,
+    "title": "Ratatuy Karışım 589",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "maydanoz",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3127,
+    "title": "Ratatuy Karışım 892",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "fesleğen",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3128,
+    "title": "Ratatuy Karışım 576",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3129,
+    "title": "Spagetti Karbonara Karışım 546",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "sarımsak",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3130,
+    "title": "Tabule Karışım 609",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "fesleğen",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3131,
+    "title": "Tabule Karışım 810",
+    "cuisine": "French",
+    "duration": "20 dk",
+    "ingredients": [
+      "nane",
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3132,
+    "title": "Spagetti Karbonara Karışım 748",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "krema",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3133,
+    "title": "İçli Köfte Karışım 718",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3134,
+    "title": "Şarapta Tavuk Karışım 618",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "kekik",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3135,
+    "title": "Şarapta Tavuk Karışım 497",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "sarımsak",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3136,
+    "title": "Ratatuy Karışım 918",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3137,
+    "title": "Spagetti Karbonara Karışım 394",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "maydanoz",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3138,
+    "title": "Spagetti Karbonara Karışım 335",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "maydanoz",
+      "sarımsak",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3139,
+    "title": "Margarita Pizza Karışım 755",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "maydanoz",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3140,
+    "title": "Margarita Pizza Karışım 769",
+    "cuisine": "French",
+    "duration": "30 dk",
+    "ingredients": [
+      "taze fesleğen",
+      "sarımsak",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3141,
+    "title": "İçli Köfte Karışım 612",
+    "cuisine": "French",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "sarımsak",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3142,
+    "title": "İçli Köfte Karışım 790",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3143,
+    "title": "Spagetti Karbonara Karışım 325",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "maydanoz",
+      "fesleğen",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3144,
+    "title": "Ratatuy Karışım 287",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3145,
+    "title": "Ratatuy Karışım 289",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "maydanoz",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3146,
+    "title": "Şarapta Tavuk Karışım 833",
+    "cuisine": "Italian",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3147,
+    "title": "Ratatuy Karışım 814",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3148,
+    "title": "Tabule Karışım 395",
+    "cuisine": "Italian",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "kekik",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3149,
+    "title": "İçli Köfte Karışım 376",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "sarımsak",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3150,
+    "title": "Tabule Karışım 556",
+    "cuisine": "Italian",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "kekik",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3151,
+    "title": "Margarita Pizza Karışım 795",
+    "cuisine": "Lebanese",
+    "duration": "30 dk",
+    "ingredients": [
+      "pul biber",
+      "fesleğen",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3152,
+    "title": "Şarapta Tavuk Karışım 864",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "kekik",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3153,
+    "title": "Spagetti Karbonara Karışım 603",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "200g spagetti",
+      "nane",
+      "2 yumurta",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3154,
+    "title": "Margarita Pizza Karışım 576",
+    "cuisine": "Lebanese",
+    "duration": "30 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "krema",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3155,
+    "title": "Ratatuy Karışım 386",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "nane",
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3156,
+    "title": "Tabule Karışım 719",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "sarımsak",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "fesleğen",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3157,
+    "title": "İçli Köfte Karışım 916",
+    "cuisine": "French",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "fesleğen",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3158,
+    "title": "Ratatuy Karışım 357",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3159,
+    "title": "Spagetti Karbonara Karışım 426",
+    "cuisine": "Lebanese",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "nane",
+      "2 yumurta",
+      "sarımsak",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3160,
+    "title": "Tabule Karışım 412",
+    "cuisine": "French",
+    "duration": "20 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "nane",
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3161,
+    "title": "Şarapta Tavuk Karışım 366",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "nane",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "sarımsak",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3162,
+    "title": "Tabule Karışım 441",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "pul biber",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3163,
+    "title": "İçli Köfte Karışım 931",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3164,
+    "title": "Margarita Pizza Karışım 751",
+    "cuisine": "Lebanese",
+    "duration": "30 dk",
+    "ingredients": [
+      "taze fesleğen",
+      "sarımsak",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3165,
+    "title": "Ratatuy Karışım 438",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "maydanoz",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3166,
+    "title": "Şarapta Tavuk Karışım 601",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "kekik",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3167,
+    "title": "Spagetti Karbonara Karışım 605",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "sarımsak",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3168,
+    "title": "Ratatuy Karışım 114",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "pul biber",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3169,
+    "title": "Ratatuy Karışım 972",
+    "cuisine": "Lebanese",
+    "duration": "45 dk",
+    "ingredients": [
+      "2 domateses",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3170,
+    "title": "Şarapta Tavuk Karışım 134",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3171,
+    "title": "Spagetti Karbonara Karışım 539",
+    "cuisine": "French",
+    "duration": "25 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "200g spagetti",
+      "2 yumurta",
+      "fesleğen",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3172,
+    "title": "Spagetti Karbonara Karışım 603",
+    "cuisine": "Lebanese",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "sarımsak",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3173,
+    "title": "Şarapta Tavuk Karışım 511",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3174,
+    "title": "İçli Köfte Karışım 256",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "nane",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3175,
+    "title": "Spagetti Karbonara Karışım 750",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "maydanoz",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3176,
+    "title": "Spagetti Karbonara Karışım 534",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "maydanoz",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3177,
+    "title": "İçli Köfte Karışım 577",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "nane",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "sarımsak",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3178,
+    "title": "Margarita Pizza Karışım 265",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "krema",
+      "fesleğen",
+      "taze fesleğen",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3179,
+    "title": "Spagetti Karbonara Karışım 264",
+    "cuisine": "Italian",
+    "duration": "25 dk",
+    "ingredients": [
+      "200g spagetti",
+      "2 yumurta",
+      "krema",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3180,
+    "title": "İçli Köfte Karışım 387",
+    "cuisine": "French",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "kekik",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3181,
+    "title": "Şarapta Tavuk Karışım 691",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3182,
+    "title": "İçli Köfte Karışım 205",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3183,
+    "title": "İçli Köfte Karışım 388",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3184,
+    "title": "Ratatuy Karışım 279",
+    "cuisine": "French",
+    "duration": "45 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "kekik",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3185,
+    "title": "Şarapta Tavuk Karışım 800",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3186,
+    "title": "İçli Köfte Karışım 862",
+    "cuisine": "French",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "nane",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "krema",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3187,
+    "title": "Tabule Karışım 651",
+    "cuisine": "Italian",
+    "duration": "20 dk",
+    "ingredients": [
+      "nane",
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "kekik",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Sıcak olarak salata ile servis edilir."
+  },
+  {
+    "id": 3188,
+    "title": "Şarapta Tavuk Karışım 259",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3189,
+    "title": "Şarapta Tavuk Karışım 252",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3190,
+    "title": "Şarapta Tavuk Karışım 842",
+    "cuisine": "Italian",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "2 cups kırmızı şarap",
+      "maydanoz",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3191,
+    "title": "Margarita Pizza Karışım 775",
+    "cuisine": "Italian",
+    "duration": "30 dk",
+    "ingredients": [
+      "nane",
+      "taze fesleğen",
+      "kekik",
+      "100g domates sauce",
+      "100g mozzarella",
+      "tuz",
+      "zeytinyağı",
+      "1 pizza hamuru"
+    ],
+    "instructions": "Spread sauce on dough. Add cheese and fesleğen. Bake in hot oven until crust is golden. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3192,
+    "title": "Tabule Karışım 116",
+    "cuisine": "Lebanese",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "1 limon (suyu)",
+      "sarımsak",
+      "1 salatalık",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "fesleğen",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3193,
+    "title": "Ratatuy Karışım 103",
+    "cuisine": "Italian",
+    "duration": "45 dk",
+    "ingredients": [
+      "maydanoz",
+      "2 domateses",
+      "pepper",
+      "1 soğan",
+      "1 kabak",
+      "sarımsak",
+      "kekik",
+      "1 biber",
+      "1 yumurtaplant",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "instructions": "Slice vegetables. Layer in a dish. Drizzle with oil and herbs. Bake until tender. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3194,
+    "title": "Şarapta Tavuk Karışım 516",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "krema",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Üzerine rendelenmiş peynir serpin."
+  },
+  {
+    "id": 3195,
+    "title": "İçli Köfte Karışım 124",
+    "cuisine": "Italian",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "fesleğen",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3196,
+    "title": "İçli Köfte Karışım 112",
+    "cuisine": "Lebanese",
+    "duration": "60 dk",
+    "ingredients": [
+      "1 cup bulgur",
+      "limon kabuğu rendesi",
+      "1 tsp tarçın",
+      "500g kıyma (kuzu)",
+      "maydanoz",
+      "pepper",
+      "1/2 tsp yenibahar",
+      "1 soğan",
+      "tuz"
+    ],
+    "instructions": "Soak bulgur. Mix with meat and spices. Form balls and fry or bake until browned. Biraz limon suyu ekleyin."
+  },
+  {
+    "id": 3197,
+    "title": "Spagetti Karbonara Karışım 407",
+    "cuisine": "Lebanese",
+    "duration": "25 dk",
+    "ingredients": [
+      "limon kabuğu rendesi",
+      "200g spagetti",
+      "2 yumurta",
+      "kekik",
+      "50g parmesan peyniri",
+      "karabiber",
+      "100g pastırma",
+      "tuz"
+    ],
+    "instructions": "Boil spagetti. Fry pastırma. Whisk yumurta and cheese. Combine all off heat. Add pepper and serve. Drizzle with zeytinyağı."
+  },
+  {
+    "id": 3198,
+    "title": "Şarapta Tavuk Karışım 831",
+    "cuisine": "French",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "fesleğen",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
+  },
+  {
+    "id": 3199,
+    "title": "Tabule Karışım 709",
+    "cuisine": "French",
+    "duration": "20 dk",
+    "ingredients": [
+      "2 cups maydanoz",
+      "maydanoz",
+      "1 limon (suyu)",
+      "1 salatalık",
+      "kekik",
+      "2 tbsp zeytinyağı",
+      "1/2 cup bulgur",
+      "tuz",
+      "1 domates"
+    ],
+    "instructions": "Soak bulgur. Chop vegetables and herbs. Mix all ingredients. Chill before serving. Servis etmeden önce taze otlar serpin."
+  },
+  {
+    "id": 3200,
+    "title": "Şarapta Tavuk Karışım 274",
+    "cuisine": "Lebanese",
+    "duration": "90 dk",
+    "ingredients": [
+      "1 kg tavuk parçaları",
+      "limon kabuğu rendesi",
+      "2 cups kırmızı şarap",
+      "2 havuç",
+      "pepper",
+      "1 soğan",
+      "1 tbsp un",
+      "kekik",
+      "200g mantar",
+      "tereyağı",
+      "pul biber",
+      "tuz"
+    ],
+    "instructions": "Brown chicken and vegetables. Add wine and herbs. Simmer until tender. Thicken with un. Pirinç veya ekmekle servis yapın."
   }
 ]
